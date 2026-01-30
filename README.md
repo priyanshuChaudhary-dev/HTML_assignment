@@ -42,8 +42,8 @@ https://resumeproject061.netlify.app/
 ## Output Screenshot
 
 ### Project Screenshot 1
-Screenshot/output01.png
+![Project Screenshot 1](Screenshot/output%2001.png)
 
 ### Project Screenshot 2
-Screenshot/output02.png
+![Project Screenshot 1](Screenshot/output%2001.png)
 

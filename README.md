@@ -1,67 +1,41 @@
 # Resume Project
----
 
-## 👨‍💻 About Me
+## 👨‍💻 Description
 
-I am a passionate developer with 5+ years of experience in building web applications.  
-I specialize in **HTML, CSS, JavaScript**, and modern backend technologies.
+A simple, responsive resume built using semantic HTML This project focuses on clean structure and correct HTML semantics.
 
 ---
-
-## 🛠 Skills
-
-- HTML & CSS3
-- JavaScript
-- React & Vue.js
-- Node.js & Express
-- MongoDB & MySQL
-- Git & GitHub
+## Live Demo
+https://resumeproject061.netlify.app/
 
 ---
-
-## 💼 Experience
-
-| Position         | Company             | Duration       |
-| ---------------- | ------------------- | -------------- |
-| Senior Developer | Tech Solution Inc.  | 2021 – Present |
-| Senior Developer | Digital Innovations | 2019 – 2021    |
-| Junior Developer | StartUp Co.         | 2018 – 2019    |
+## Purpose
+-Complete the cohort assignment
+-Practice semantic HTML elements
+-Create a resume layout using proper structure
+-Understand real-world HTML document organization
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-### 🛒 Project 1: E-Commerce Website
-
-Built a fully functional e-commerce platform with product listing, cart management, and payment integration.
-
-- **Technologies:** React, Node.js, MongoDB
-- **Timeline:** 6 months
-
-### ✍️ Project 2: Blog Platform
-
-Developed a blogging platform with user authentication and content management features.
-
-- **Technologies:** HTML, CSS, JavaScript, Express
-- **Timeline:** 3 months
+-HTML5
 
 ---
 
-## 🎓 Education
-
-| Degree                       | Institution      | Year |
-| ---------------------------- | ---------------- | ---- |
-| Bachelor in Computer Science | State University | 2018 |
-| Web Development Bootcamp     | Online Academy   | 2017 |
+## Semantic Structure Used
+-header 
+-main
+-footer
+-h1,h2,h3
+-ul,li
+-table
+---
+## Features
+-Simple Resume Layout
+-Semantic HTML Structure
+-Responsive Ready
+-Organized Sections
 
 ---
 
-## 📬 Contact
-
-- **Email:** chaudhary@gmail.com
-- **Phone:** +91 123-143-374
-- **Location:** Switzerland, Europe
-
----
-
-© Priyanshu Chaudhary. All rights reserved.

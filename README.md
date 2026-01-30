@@ -1,7 +1,4 @@
-# Priyanshu Chaudhary
-
-**Full Stack Developer | Web Designer | Tech Enthusiast**
-
+# Resume Project
 ---
 
 ## 👨‍💻 About Me
